@@ -1,0 +1,6 @@
+<% if (page.categories)  { %>
+    <div class="article-tag">
+        <i class="fa fa-caret-down"></i>
+        <%- list_categories(page.categories, { show_count: false, style: 'link', show_current: true }) %>
+    </div>
+<% } %>

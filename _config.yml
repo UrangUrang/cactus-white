@@ -1,10 +1,10 @@
 nav:
   Home: /
-  About: /about/
-  Writing: /posts/
-  Projects: http://github.com/sergodeeva
+  # About: /about/
+  # Writing: /posts/
+  # Projects: http://github.com/urangurang
 
-projects_url: http://github.com/sergodeeva
+projects_url: http://github.com/urangurang
 
 customize:
     gravatar:
@@ -27,12 +27,12 @@ customize:
         url: /images/apple-touch-icon.png
         gravator: false
     social_links:
-        github: http://github.com/sergodeeva
-        facebook: /
-        linkedin: https://www.linkedin.com/in/natalyakosenko/
-    show_all_posts: false
-    post_count: 10
-    highlight: pojoaque
+        github: https://github.com/urangurang
+        facebook: https://www.facebook.com/ddwax
+        linkedin: https://www.linkedin.com/in/park-jinsoo-b0a6456a/
+    show_all_posts: true
+    post_count: 20
+    highlight: railscasts
 
 # RSS
 rss: false
@@ -40,7 +40,7 @@ rss: false
 # Plugins
 plugins:
     disqus_shortname: # Disqus Comments Shortname
-    google_analytics: UA-37473492-6 # enter the tracking ID for your Google Analytics
+    google_analytics: UA-158081532-1 # enter the tracking ID for your Google Analytics
 
 # Miscellaneous
 miscellaneous:
