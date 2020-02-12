@@ -1,5 +1,7 @@
 nav:
   Home: /
+  Archive: /archives/
+  Category: /categories/
   # About: /about/
   # Writing: /posts/
   # Projects: http://github.com/urangurang

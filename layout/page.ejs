@@ -3,6 +3,9 @@
     <%- partial('_partial/search') %>
   <% } %>
   <%- partial('_partial/post/gallery') %>
+  <% if (page.title === 'categories') { %>
+    <%- partial('_partial/category') %>
+  <% } %>
   <div class="content" itemprop="articleBody">
     <%- page.content %>
   </div>
