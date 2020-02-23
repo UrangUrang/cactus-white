@@ -41,7 +41,7 @@ rss: false
 
 # Plugins
 plugins:
-    disqus_shortname: # Disqus Comments Shortname
+    disqus_shortname: urangurang
     google_analytics: UA-158081532-1 # enter the tracking ID for your Google Analytics
 
 # Miscellaneous
